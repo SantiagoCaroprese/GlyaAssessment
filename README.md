@@ -8,7 +8,7 @@ Aplicación realizada con Spring boot.
 
 ## Ejecución
 
-1. Ejecutar el proyecto de Spring boot en Visual Studio Code, o Intellij.
+1. Ejecutar el proyecto de Spring boot en Visual Studio Code, o Intellij. Para ejecutar Spring boot en vs code seguir el enlace https://code.visualstudio.com/docs/java/java-spring-boot
 
 ## API
 
