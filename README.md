@@ -18,4 +18,9 @@ Adicional se adjunta colección de postman con las urls.
 2. Numero de dosis por cada dia, según tipo de vacuna (parámetros: vacuna): localhost:8080/glya/encounter/days?vacuna=PFIZER
 3. El número total de dosis aplicadas en un rango de fecha. (Parámetros:
 Fecha inicial y Fecha Final del rango): localhost:8080/glya/encounter?start=2022-01-10&end=2022-04-30
+
+## Codigo
+
+El codigo se encuentra en el directorio Glya/src/main/Glya
+
  
